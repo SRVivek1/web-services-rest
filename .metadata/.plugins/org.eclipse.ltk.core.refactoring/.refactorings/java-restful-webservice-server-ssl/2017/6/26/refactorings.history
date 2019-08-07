@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;com.rpsoft.rest.ws.simulator.server.bean&apos; to &apos;java-restful-webservice-server-ssl-client/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;java-restful-webservice-server-ssl&apos;&#x0D;&#x0A;- Destination element: &apos;java-restful-webservice-server-ssl-client/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;java-restful-webservice-server-ssl/src/main/java/com.rpsoft.rest.ws.simulator.server.bean&apos;" description="Copy package" destination="=java-restful-webservice-server-ssl-client/src\/main\/java" element1="/src\/main\/java&lt;com.rpsoft.rest.ws.simulator.server.bean" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1498398737082" version="1.0"/>
+</session>
