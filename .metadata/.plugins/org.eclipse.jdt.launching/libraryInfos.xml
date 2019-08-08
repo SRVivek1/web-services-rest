@@ -1,22 +1,41 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
-<libraryInfo home="C:\SWTools\SystemD\WorkSpaces\DevTools\Java\jdk1.8.0_102" version="1.8.0_102">
+<libraryInfo home="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre" version="1.8.0_102">
 <bootpath>
-<entry path="C:\SWTools\SystemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\resources.jar"/>
-<entry path="C:\SWTools\SystemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\rt.jar"/>
-<entry path="C:\SWTools\SystemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\sunrsasign.jar"/>
-<entry path="C:\SWTools\SystemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\jsse.jar"/>
-<entry path="C:\SWTools\SystemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\jce.jar"/>
-<entry path="C:\SWTools\SystemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\charsets.jar"/>
-<entry path="C:\SWTools\SystemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\jfr.jar"/>
-<entry path="C:\SWTools\SystemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\classes"/>
+<entry path="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\resources.jar"/>
+<entry path="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\rt.jar"/>
+<entry path="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\sunrsasign.jar"/>
+<entry path="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\jsse.jar"/>
+<entry path="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\jce.jar"/>
+<entry path="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\charsets.jar"/>
+<entry path="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\jfr.jar"/>
+<entry path="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\classes"/>
 </bootpath>
 <extensionDirs>
-<entry path="C:\SWTools\SystemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\ext"/>
+<entry path="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\ext"/>
 <entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
 </extensionDirs>
 <endorsedDirs>
-<entry path="C:\SWTools\SystemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\endorsed"/>
+<entry path="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102" version="1.8.0_102">
+<bootpath>
+<entry path="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\resources.jar"/>
+<entry path="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\rt.jar"/>
+<entry path="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\sunrsasign.jar"/>
+<entry path="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\jsse.jar"/>
+<entry path="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\jce.jar"/>
+<entry path="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\charsets.jar"/>
+<entry path="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\jfr.jar"/>
+<entry path="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\r2dev\systemD\WorkSpaces\DevTools\Java\jdk1.8.0_102\jre\lib\endorsed"/>
 </endorsedDirs>
 </libraryInfo>
 </libraryInfos>
